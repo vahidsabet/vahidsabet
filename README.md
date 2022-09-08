@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A crawler system and analyzing dashboard**
 
-- 🌱 I’m currently learning **CI/CD process**
+- 🌱 I’m currently working on **CI/CD process** and crm developing
 
 - 📫 How to reach me **vahid.sabetumz@gmail.com**
 
