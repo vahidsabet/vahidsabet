@@ -1,9 +1,7 @@
 <h1 align="center">Hi 🤝, I'm Vahid Sabet</h1>
 <h3 align="center">A Full-stack developer</h3>
 
-- 🔭 I’m currently working on **A crawler system and analyzing dashboard**
-
-- 🌱 I’m currently working on **CI/CD process** and crm developing
+- 🔭 I’m currently working on **Survey system**
 
 - 📫 How to reach me **vahid.sabetumz@gmail.com**
 
