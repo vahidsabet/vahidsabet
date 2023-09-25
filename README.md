@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤝, I'm Vahid Sabet</h1>
 <h3 align="center">A Full-stack developer</h3>
 
-- 🔭 I’m currently working on **Blockchain networks and devOps**
+- 🔭 I’m currently working on **Developing + Blockchain networks and devOps**
 
 - 📫 How to reach me **vahid.sabetumz@gmail.com**
 
