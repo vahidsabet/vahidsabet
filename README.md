@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **Developing + Blockchain networks and devOps**
 
-- 📫 How to reach me **vahid.sabetumz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
